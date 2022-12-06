@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class part2 {
+public class day1part2 {
     public static void main(String[] args) throws FileNotFoundException {
         //Read file
         File file = new File("day1/input.txt");
